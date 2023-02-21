@@ -1,1 +1,2 @@
 Hello world!
+Some more text so I can change the commit message editor.
